@@ -30,7 +30,6 @@ public class Parameters {
 
 		Parameters pm=new Parameters(actor, actress, totalNoOfMovies, hits,common);
 
-		input.close();
 		
 
 	}
